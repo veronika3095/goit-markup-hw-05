@@ -547,6 +547,9 @@ h2 {
     margin-bottom: 16px;
 }
 
+.icons-footer { 
+    margin-right: 80px;
+}
 
 .p-icons {
     font-family: "Roboto", sans-serif;
@@ -587,6 +590,7 @@ h2 {
 .svg-footer {
     fill: #f4f4fd;
 }
+
 
 .footer-form-p { 
     font-family: "Roboto", sans-serif;
